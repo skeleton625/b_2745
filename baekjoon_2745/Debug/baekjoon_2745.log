@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\source\repos\baekjoon_2745\baekjoon_2745\main.cpp(14): warning C4244: '+=': 'double'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\source\repos\baekjoon_2745\baekjoon_2745\main.cpp(15): warning C4244: '+=': 'double'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  baekjoon_2745.vcxproj -> D:\source\repos\baekjoon_2745\Debug\baekjoon_2745.exe
